@@ -1,3 +1,18 @@
+
+![Untitled Diagram (1)](https://github.com/user-attachments/assets/bb57b31c-c08c-4c3a-b942-18e0500bfb79)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Multi-Format QA Tool
 
 This application is designed to interact with users by answering questions based on information retrieved from various document formats. The tool uses advanced natural language processing (NLP) techniques, embeddings, and retrieval mechanisms to provide accurate and relevant responses. It is built using the LangChain library, which supports conversational AI and document processing.
